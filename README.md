@@ -182,7 +182,7 @@ y_{k+1} = y_k - α × ∂f/∂y
 
 ---
 
-## Multivariate Gradient Descent Algorithm (10 minutes)
+## Multivariate Gradient Descent Algorithm
 
 ### Learning Objectives
 **What you'll learn:**
