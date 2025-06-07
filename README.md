@@ -76,7 +76,6 @@ x_{k+1} = x_k - α × f'(x_k)
 
 ![Alt text](/learning_rate_comparison.png)
 
-
 ### Applications & Summary
 **1D Gradient Descent Applications:**
 - Finding roots of equations
@@ -151,6 +150,8 @@ y_{k+1} = y_k - α × ∂f/∂y
 **First iteration:**
 - x₁ = 3 - 0.1 × (2×3 + 2) = 3 - 0.8 = 2.2
 - y₁ = 1 - 0.1 × (2×1 - 4) = 1 + 0.2 = 1.2
+
+![Alt text](/2d_gradient_descent.png)
 
 ### Visualization Techniques
 **Understanding 2D Gradient Descent:**
@@ -256,6 +257,8 @@ J(θ) = -(1/m) Σ[y⁽ⁱ⁾log(hθ(x⁽ⁱ⁾)) + (1-y⁽ⁱ⁾)log(1-hθ(x⁽�
 - Uses single data point
 - Fast but noisy
 - Good for large datasets
+
+![Alt text](/multivariate_applications.png)
 
 
 ### Implementation Considerations
