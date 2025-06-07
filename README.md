@@ -74,7 +74,7 @@ x_{k+1} = x_k - α × f'(x_k)
 - Unstable oscillations
 - Possible divergence
 
-![Alt text](/opa/learning_rate_comparison.png)
+![Alt text](/learning_rate_comparison.png)
 
 
 ### Applications & Summary
