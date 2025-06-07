@@ -74,6 +74,8 @@ x_{k+1} = x_k - α × f'(x_k)
 - Unstable oscillations
 - Possible divergence
 
+![Alt text](/opa/learning_rate_comparison.png)
+
 
 ### Applications & Summary
 **1D Gradient Descent Applications:**
