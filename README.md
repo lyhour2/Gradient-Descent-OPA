@@ -1,8 +1,8 @@
 # Gradient Descent Algorithm 
 
-## 1D Gradient Descent Algorithm (10 minutes)
+## 1D Gradient Descent Algorithm 
 
-=**What you'll learn:**
+**What you'll learn:**
 - Understand the fundamentals of gradient descent in 1D
 - Learn the mathematical formulation
 - Implement and visualize 1D gradient descent
@@ -53,6 +53,8 @@ x_{k+1} = x_k - α × f'(x_k)
 - x₁ = 2 - 0.1 × (2×2 + 4) = 2 - 0.8 = 1.2
 - x₂ = 1.2 - 0.1 × (2×1.2 + 4) = 1.2 - 0.64 = 0.56
 - x₃ = 0.56 - 0.1 × (2×0.56 + 4) = 0.56 - 0.512 = 0.048
+
+![Alt text](/Users/macbookpro/Desktop/PP-Y4/AML-test/opa/1d_convergence.png)
 
 
 ### Learning Rate Impact
